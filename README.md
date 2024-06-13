@@ -1,5 +1,5 @@
 # community-resources
-Community suggested resources for development on Monad and other EVM related environments.
+Community suggested resources for development on Monad.
 
 ### End-to-End Web3 Resources
 [Awesome Web3](https://github.com/ahmet/awesome-web3)\
