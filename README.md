@@ -6,7 +6,8 @@ Community suggested resources for development on Monad and other EVM related env
 [Speed Run Ethereum](https://speedrunethereum.com/) - For Beginners\
 [ThirdWeb](https://blog.thirdweb.com/guides/)\
 [Alchemy University](https://www.alchemy.com/university)\
-[Swiss-Knife.xyz](https://swiss-knife.xyz/)
+[Swiss-Knife.xyz](https://swiss-knife.xyz/)\
+[Scaffold.eth](https://scaffoldeth.io/)
 
 ### Solidity Development
 [Solidity Bootcamp by RareSkills](https://www.rareskills.io/solidity-bootcamp)\
