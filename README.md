@@ -42,7 +42,7 @@ Switchboard is a pull based oracle platform enabling builders to tailor hi-fidel
 [Getting Started with Switchboard for EVM](https://docs.switchboard.xyz/docs/switchboard/switchboard-on-evm)\
 [Switchboard Example Repo](https://github.com/switchboard-xyz/evm-on-demand)
 #### ThirdWeb:
-ThirdWeb is a full stack Web3 platform enabling builders to build in Web3 with end-to-end solutions and APIs for making interacting with the blockchain on your applications a painless experience.\
+ThirdWeb is a full stack Web3 platform enabling builders to build in Web3 with end-to-end solutions and APIs for making interacting with the blockchain in your applications a painless experience.\
 [ThirdWeb Playground](https://playground.thirdweb.com/)\
 [ThirdWeb YouTube](https://www.youtube.com/c/thirdweb)\
 [ThirdWeb Documentation](https://portal.thirdweb.com/)
