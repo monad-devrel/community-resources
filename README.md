@@ -42,8 +42,11 @@ Capsule enables apps to easily and securely bring users onchain with social sign
 Switchboard is a pull based oracle platform enabling builders to tailor hi-fidelity and exotic data feeds for their dApps while simultaneously composing with data feeds from Pyth and Chainlink. With Switchboard you can can build oracles and publish data feeds that service your exact needs. Checkout the resources below to learn more.\
 [Getting Started with Switchboard for EVM](https://docs.switchboard.xyz/docs/switchboard/switchboard-on-evm)\
 [Switchboard Example Repo](https://github.com/switchboard-xyz/evm-on-demand)
-#### ThirdWeb:
-ThirdWeb is a full stack Web3 platform enabling builders to build in Web3 with end-to-end solutions and APIs for making interacting with the blockchain in your applications a painless experience.\
-[ThirdWeb Playground](https://playground.thirdweb.com/)\
-[ThirdWeb YouTube](https://www.youtube.com/c/thirdweb)\
-[ThirdWeb Documentation](https://portal.thirdweb.com/)
+#### thirdweb:
+thirdweb is a full stack Web3 platform enabling builders to build in Web3 with end-to-end solutions and APIs for making interacting with the blockchain in your applications a painless experience.\
+[thirdweb Playground](https://playground.thirdweb.com/)\
+[thirdweb YouTube](https://www.youtube.com/c/thirdweb)\
+[thirdweb Documentation](https://portal.thirdweb.com/)
+#### Biconomy:
+Biconomy provides Account Abstraction APIs for a wide range of uses cases and powers Smart Wallet infra across web3. Biconomy provides libraries for working with a wide range of EIP-4337 use cases through their Bundler service and can facilitate the use of other Bundlers as well.\
+[Biconomy Documentation](https://docs.biconomy.io/)
