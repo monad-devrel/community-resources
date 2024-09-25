@@ -21,13 +21,23 @@ Community suggested resources for development on Monad.
 
 ### Mobile Web3/Crypto
 [PWA Starter Template](https://blog.anagram.xyz/modern-crypto-pwa-starter-template/)\
+[Building PWAs with Next.js](https://youtu.be/2ipasAxK5H8)\
 [Awesome Telegram Mini Apps](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps)\
 [Debug Mode for Telegram Mini Apps](https://docs.ton.org/develop/dapps/telegram-apps/testing-apps#debug-mode-for-mini-apps)
+
+### EVM Blinks/Actions
+[ETH Blinks](https://github.com/Scannty/eth-blinks)
 
 ### UI/UX Design
 [Google Design Guide](https://m3.material.io/)\
 [Apple Design Guide](https://developer.apple.com/design/human-interface-guidelines)\
-[The latest in Web UI](https://www.youtube.com/watch?v=_-6LgEjEyzE)
+[The latest in Web UI](https://www.youtube.com/watch?v=_-6LgEjEyzE)\
+[Monad UIKit by @aslanw3b](https://x.com/aslanw3b/status/1834506441840836615)
+
+### Pitch Deck Creation
+[YC Library - "Deck"](https://www.ycombinator.com/library/search?query=deck0)\
+[YC - How to build your seed round pitch deck](https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck)\
+[YC - How to design a better pitch deck](https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck)
 
 ## Ecosystem Participant Resources
 #### SendBlocks: 
