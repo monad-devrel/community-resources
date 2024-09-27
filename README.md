@@ -37,7 +37,8 @@ Community suggested resources for development on Monad.
 ### Pitch Deck Creation
 [YC Library - "Deck"](https://www.ycombinator.com/library/search?query=deck0)\
 [YC - How to build your seed round pitch deck](https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck)\
-[YC - How to design a better pitch deck](https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck)
+[YC - How to design a better pitch deck](https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck)\
+[Pitch-Hikers Guide to the Galaxy](https://ishita7077.substack.com/p/pitch-hikers-guide-to-the-galaxy)
 
 ## Ecosystem Participant Resources
 #### SendBlocks: 
