@@ -62,3 +62,7 @@ thirdweb is a full stack Web3 platform enabling builders to build in Web3 with e
 #### Biconomy:
 Biconomy provides Account Abstraction APIs for a wide range of uses cases and powers Smart Wallet infra across web3. Biconomy provides libraries for working with a wide range of EIP-4337 use cases through their Bundler service and can facilitate the use of other Bundlers as well.\
 [Biconomy Documentation](https://docs.biconomy.io/)
+#### Wallet Connect (Reown):
+Wallet Connect is an easy way to get started with wallet integration across web3.\
+[Wallet Connect for Telegram Mini Apps](https://docs.reown.com/appkit/features/telegram-mini-appshttps://t.me/appkit_test_ggr_bot)\
+[Reown Docs](https://docs.reown.com/)
