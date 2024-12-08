@@ -12,9 +12,10 @@ Community suggested resources for development on Monad.
 ### Solidity Development
 [Solidity Bootcamp by RareSkills](https://www.rareskills.io/solidity-bootcamp)\
 [Solidity Patterns](https://fravoll.github.io/solidity-patterns/)\
-[Cookbook.dev](https://cookbook.dev)\
-[Smart Contract Engineer](https://www.youtube.com/@smartcontractprogrammer)\
+[Cookbook.dev](https://www.cookbook.dev/)\
+[Smart Contract Engineer](https://www.youtube.com/@smartcontractprogrammer)
 [Super-Sol by SorellaLabs Solidity Templates](https://github.com/SorellaLabs/super-sol)
+
 
 ### Web/Client Side Development
 [The Odin Project](https://www.theodinproject.com/) - For Beginners\
