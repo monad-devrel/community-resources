@@ -14,6 +14,8 @@ Community suggested resources for development on Monad.
 [Solidity Patterns](https://fravoll.github.io/solidity-patterns/)\
 [Cookbook.dev](https://www.cookbook.dev/)\
 [Smart Contract Engineer](https://www.youtube.com/@smartcontractprogrammer)
+[Super-Sol by SorellaLabs Solidity Templates](https://github.com/SorellaLabs/super-sol)
+
 
 ### Web/Client Side Development
 [The Odin Project](https://www.theodinproject.com/) - For Beginners\
@@ -50,7 +52,7 @@ Capsule enables apps to easily and securely bring users onchain with social sign
 [Capsule Wallet Demo](http://demo.beta.usecapsule.com/)\
 [Capsule Wallet](http://usecapsule.com/)
 #### Switchboard Oracle:
-Switchboard is a pull based oracle platform enabling builders to tailor hi-fidelity and exotic data feeds for their dApps while simultaneously composing with data feeds from Pyth and Chainlink. With Switchboard you can can build oracles and publish data feeds that service your exact needs. Checkout the resources below to learn more.\
+Switchboard is a pull based oracle platform enabling builders to tailor hi-fidelity and exotic data feeds for their dApps while simultaneously composing with data feeds from Pyth and Chainlink. With Switchboard you can build oracles and publish data feeds that service your exact needs. Checkout the resources below to learn more.\
 [Getting Started with Switchboard for EVM](https://docs.switchboard.xyz/docs/switchboard/switchboard-on-evm)\
 [Switchboard Example Repo](https://github.com/switchboard-xyz/evm-on-demand)
 #### thirdweb:
@@ -61,3 +63,7 @@ thirdweb is a full stack Web3 platform enabling builders to build in Web3 with e
 #### Biconomy:
 Biconomy provides Account Abstraction APIs for a wide range of uses cases and powers Smart Wallet infra across web3. Biconomy provides libraries for working with a wide range of EIP-4337 use cases through their Bundler service and can facilitate the use of other Bundlers as well.\
 [Biconomy Documentation](https://docs.biconomy.io/)
+#### Wallet Connect (Reown):
+Wallet Connect is an easy way to get started with wallet integration across web3.\
+[Wallet Connect for Telegram Mini Apps](https://docs.reown.com/appkit/features/telegram-mini-appshttps://t.me/appkit_test_ggr_bot)\
+[Reown Docs](https://docs.reown.com/)
